@@ -1,0 +1,14 @@
+﻿{
+    "name": "cfdtrr",
+    "description": "cfdtrr",
+    "logo":"cfdtrr",
+    "keywords": ["cfdtrr"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网站-> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/cbft/cfdtrr",
+    "stack": "container"
+}
